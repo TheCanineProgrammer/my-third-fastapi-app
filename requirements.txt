@@ -3,5 +3,5 @@ uvicorn
 pydantic
 openai
 pandas
-datasets
+datasets==2.14.6
 rapidfuzz
